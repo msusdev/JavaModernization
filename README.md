@@ -1,23 +1,54 @@
-# Microsoft-Developer-Resources-Focus-on-Kubernetes
+# Get started on your Java Modernization Journey
 ![MS_2525_CDS_RegBanner_DevTools_1920x300 (1)](https://user-images.githubusercontent.com/107423518/180083692-13dcdf47-0f75-4aaf-b50e-5d037f611206.jpg)
 
-Discover how you can build with Azure Kubernetes Service and Azure Arc-enabled Kubernetes. Check out this repository of new Kubernetes developer content including video, docs, and more.
+Resources for Success to get started with Java on Azure
 
 
 ## Featured Content
-Learn with Microsoft through these programs to take your technical skills to the next level!
+## Microsoft Cloud Adoption Framework
+Proven Guidance to accelerate your cloud journey
 | Resource | Description |
 | --- | --- | 
-| [Seamless and secure Kubernetes experience and observability anywhere](https://aka.ms/devcal_july2023_01) | Learn about distroless .NET containers, and new capabilities across AKS and Azure Arc-enabled Kubernetes. |
-| [Azure webinar series: Operate Kubernetes Clusters Like a Pro](https://aka.ms/devcal_july2023_03) | Azure Kubernetes Service (AKS) makes management of Kubernetes easy, and provides unique features to help you achieve operational efficiency. Learn how you can use AKS features to simplify Kubernetes operations|
-| [Develop and deploy applications on Kubernetes ](https://aka.ms/devcal_july2023_05) | Understand how to develop, build, deploy, and automatically maintain cloud native applications designed to work with Azure Kubernetes Service — from the scratchpad to the deployment pipeline. |
-| [Optimizing Azure Kubernetes Service (AKS) with the Well-Architected Framework](https://aka.ms/devcal_july2023_07) | If you’re building an architecture that includes AKS, using the checklists and recommendations from the Azure Well-Architected Azure Kubernetes Service (AKS) guide can help you stay on the right path.|
-| [Dapr, ML, Gitops Extensions GA on AKS](https://aka.ms/devcal_july2023_09) | Announcing the General Availability of 3 new capabilities enabled on AKS — Dapr, Azure Machine Learning and GitOps. These capabilities can be enabled on AKS clusters through a feature called cluster extensions|
-| [Deploy modern containerized apps and cloud native databases at scale](https://aka.ms/devcal_july2023_02) | Build distributed, modern, and cloud-native applications at scale and cost effectively with the latest updates in Azure Container Apps and Azure Cosmos DB.|
-| [Azure Container Apps overview ](https://aka.ms/devcal_july2023_04) | Azure Container Apps enable you to run microservices and containerized applications on a serverless platform. Common uses of Azure Container Apps include deploying API endpoints, and handling event-driven processing.| 
-| [Kubernetes core concepts for Azure Kubernetes Service (AKS)](https://aka.ms/devcal_july2023_06) | Kubernetes provides reliable scheduling of fault-tolerant app workloads. Azure Kubernetes Service, a managed Kubernetes offering, further simplifies container-based application deployment and management.| 
-| [Announcing landing zone accelerator for Azure Arc-enabled Kubernetes ](https://aka.ms/devcal_july2023_08) | The Arc-enabled Kubernetes landing zone accelerator provides best practices, guidance, and automated reference implementations so that you can get started with deployments quickly and easily.|
+| [Cloud Adoption Framework](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/) |Proven guidance and best practices that help you confidently adopt the cloud and achieve business outcomes. |
 ---
+
+## Best Practices and Tutorials
+Technical guidance and step by step tutorials
+| Resource | Description |
+| --- | --- | 
+| [Java on Azure Documentation Center](https://learn.microsoft.com/en-us/azure/developer/java/) |Get started developing apps for the cloud with these tutorials and tools for Java developers.|
+| [Azure for Java Quickstarts](https://learn.microsoft.com/en-us/azure/developer/java/quickstarts/) |Java on Azure Quickstarts to get started|
+| [Java to Azure Migration Strategies ](https://learn.microsoft.com/en-us/azure/developer/java/migration/) | Recommended strategies for migrating Java applications to Azure |
+| [Java developer tools for Azure](https://learn.microsoft.com/en-us/azure/developer/java/fundamentals/) | Tools, IDEs, and supported JDKs for Java development on Azure.|
+| [ACA workshop with DAPR & Spring-Boot](https://azure.github.io/java-aks-aca-dapr-workshop/) | This workshop teaches you how to apply Dapr to a Java microservices application and enable developers to move between multiple pub-sub, state stores and secret store components seamlessly |
+---
+
+## Learning Resources
+Learning Resources to build cloud skills
+| Resource | Description |
+| --- | --- | 
+| [Java on Azure Learning Paths and Modules](https://learn.microsoft.com/en-us/search/?terms=java&category=Learn) |Get started developing apps for the cloud with these learning modules for Java developers.|
+| [Build with Azure Spring Apps](https://learn.microsoft.com/en-us/training/modules/azure-spring-cloud-workshop/) |In this workshop, you'll go through tasks to deploy Spring Boot microservices to Azure Spring Apps (ASA). You can run this Microsoft Learn module with the monthly free grant from Azure Spring Apps|
+| [Automate Java container deployments ](https://learn.microsoft.com/en-us/training/modules/deploy-java-containers/) | Automate Java container deployments with Azure Pipelines |
+| [Build with Cosmos DB](https://learn.microsoft.com/en-us/training/modules/build-cosmos-db-java-app/) | Learn how to build a Java-language database app to store and query data in Azure Cosmos DB.|
+---
+
+
+## Partners and Microsoft Programs
+Professional expertise for your unique needs
+| Resource | Description |
+| --- | --- | 
+| [Cloud Native Applications](https://www.microsoft.com/azure/partners/cloudnative) |A Microsoft community for Kubernetes and cloud-native app development partners.|
+| [App Migration](https://www.microsoft.com/azure/partners/ammp) |The Azure Migration and Modernization Program (AMMP) helps you accelerate your customers cloud journey with the right mix of best practice guidance, resources, and expert help at every stage. We meet customers wherever they are in their cloud journey and help them move forward with confidence – right from planning the move to making it happen successfully.|
+---
+
+
+
+
+
+
+
+
 
 ## Stay Connected with Microsoft - Microsoft .Source Newsletter
 Sign up for the [Microsoft.Source Newsletter](https://azure.microsoft.com/en-us/resources/join-the-azure-developer-community/)
